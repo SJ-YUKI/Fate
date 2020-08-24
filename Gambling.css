@@ -1,0 +1,84 @@
+* {
+    font-family: "Droid Sans Fallback", Times, serif;
+}
+
+body {
+    background-color: #7c7c7c!important;
+}
+
+.head {
+    width:100%;
+    height: 50px;
+    background-color: #495e79;
+    position:absolute;
+    top:0;
+    left:0;
+    right: 0;
+}
+
+.head-img {
+    width:40px;
+    height: 40px;
+    margin-top:5px;
+    margin-left:580px;
+}
+
+.head-p {
+    font-size: 28px;
+    margin-top: 4px;
+    color:white;
+    text-align: center;
+}
+
+.mote {
+    width: 100%;
+    height: 200px;
+    position:absolute;
+    top:50px;
+    left:0;
+    right: 0;
+    color:#666666;
+    font-size: 18px;
+    border:none;
+    padding-left: 50px;
+    background-color: #c5c5c5;
+}
+
+.true {
+    width:100%;
+    height: 50px;
+    background-color: #495e79;
+    position:absolute;
+    top:250px;
+    left:0;
+    right: 0;
+    cursor:pointer;
+}
+
+.true:hover{
+    background-color: #2b3f57;
+}
+
+.head-p1 {
+    font-size: 24px;
+    margin-top: 8px;
+    color:white;
+    text-align: center;
+}
+
+#sta {
+    width: min-content;
+    padding:3px 10px 3px 10px;
+    margin:0px 10px;
+    background-color: #c5c5c5;
+    border:none;
+    border-radius: 0px;
+    opacity:0.8; 
+    position: fixed;
+    bottom: 25px;
+}
+
+.alr {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
