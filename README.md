@@ -1,4 +1,4 @@
-![head](https://s1.ax1x.com/2020/08/24/dyAGEn.png)
+![head](https://s1.ax1x.com/2020/08/24/dyZp90.png)
 # Fate：运气
 ### 简介
 一款有趣的游戏！填入您要押注的金额（虚拟币），您有50%的机会能赢！
